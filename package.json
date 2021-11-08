@@ -1,0 +1,20 @@
+{
+  "name": "clustering-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start1": "nodemon problem.js",
+    "start2": "nodemon sol1.js",
+    "start3": "nodemon sol2.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.9"
+  }
+}
